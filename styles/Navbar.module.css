@@ -1,0 +1,28 @@
+.nav_item{
+    color: black;
+    font-size: 19px;
+    font-family: sans-serif;
+    padding: 13px;
+    text-decoration: none;
+    margin-left: 0px;
+    margin-top: -6px;
+}
+.nav_item_login{
+    color: black;
+    font-size: 19px;
+    font-family: sans-serif;
+    padding: 13px;
+    text-decoration: none;
+    margin-left: 0px;
+    margin-top: -6px;
+    background-color: blanchedalmond;
+    border-radius: 21px;
+}
+.a {
+    padding: 50px;
+}
+
+.Container{
+    background-color: aquamarine !important;
+
+}

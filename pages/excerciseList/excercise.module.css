@@ -1,0 +1,30 @@
+.formcheck {
+    display: block;
+    min-height: 1.5rem;
+    padding-left: 1.5em;
+    margin-bottom: 0.125rem;
+    padding: 10px;
+    background-color: #528b31;
+    border-radius: 12px;
+}
+.detailsTitle{
+    color: #176275;
+    padding: 14px;
+}
+.image{
+    border-radius: 10px;
+}
+.label{
+    color: #ffffff;
+    font-size: 17px;
+    padding-left: 11px;
+}
+.notlogin{
+    color: red;
+    text-align: center;
+    margin-left: 302px;
+    padding: 100px;
+    display: inline-block;
+    background-color: beige;
+    font-size: 20px;
+}

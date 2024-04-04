@@ -1,0 +1,67 @@
+.navbar{
+    padding: 16px;
+    text-decoration: none;
+}
+
+.navbar a {
+    font-size: 18px;
+    text-decoration: none;
+    color: currentcolor;
+}
+.headerTitle{
+  color: #fff;
+    font-size: 22px;
+    font-family: revert;
+    margin-left: 9px;
+}
+.TopHeadercss
+{
+  color: #ddd;
+  background: rgb(57,195,34);
+  background: linear-gradient(0deg, rgba(57,195,34,1) 0%, rgba(45,65,253,1) 100%) !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    /* padding: 16px; */
+    font-size: 16px;
+    width: 100%;
+    border: none;
+    padding: 6px;
+    border-radius: 10px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdowncontent {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdowncontent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .logout{
+    /* color: #ffffff; */
+    font-size: 18px;
+    font-family: cursive;
+  }
+  
+  .dropdowncontent a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdowncontent {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}

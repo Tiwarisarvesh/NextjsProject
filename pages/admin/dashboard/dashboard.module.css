@@ -1,0 +1,13 @@
+.text{
+    text-align: center;
+    top: 15%;
+    border: 15%;
+    margin-top: 22% !important;
+    color: brown;
+}
+.mess{
+    color: #242627;
+    font-size: 19px;
+    text-align: center;
+    letter-spacing: 3px;
+}

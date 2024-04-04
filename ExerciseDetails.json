@@ -1,0 +1,1452 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "How to Do Bar Dips: Muscles Worked & Proper Form",
+    "titleright": "How to Do Bar Dips",
+    "image": "http://localhost:3000/exerciseDetails/bar_dips_1.webp",
+    "Details": {
+      "title": "Muscles Worked in Bar Dips",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Grip a dip station about shoulder-width apart, and climb or jump to get into the starting position."
+      },
+      {
+        "id": "2",
+        "title": "Lower yourself with control until your shoulder is below your elbow, or as deep as you comfortably can."
+      },
+      {
+        "id": "3",
+        "title": "Reverse the motion and return to the starting position."
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "id": 1,
+    "title": "How to Bench Press: Muscles Worked & Proper Form",
+    "titleright": "How to Bench Press with Proper Form",
+    "image": "http://localhost:3000/exerciseDetails/bench_press.webp",
+    "Details": {
+      "title": "Muscles Worked in the Bench Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "id": 1,
+    "title": "How to Do Cable Chest Press: Muscles Worked & Proper Form",
+    "titleright": "How to Do Cable Chest Press",
+    "image": "http://localhost:3000/exerciseDetails/cable_chest_press.webp",
+    "Details": {
+      "title": "Muscles Worked in Cable Chest Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 4,
+    "id": 1,
+    "title": "How to Do Close-Grip Bench Press: Muscles Worked & Proper Form",
+    "titleright": "How to Close-Grip Bench Press",
+    "image": "http://localhost:3000/exerciseDetails/Close_grip_bench_press.webp",
+    "Details": {
+      "title": "Muscles Worked in the Close-Grip Bench Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 5,
+    "id": 1,
+    "title": "How to Do Close-Grip Feet-Up Bench Press: Muscles Worked & Proper Form",
+    "titleright": "How to Close-Grip Feet-Up Bench Press",
+    "image": "http://localhost:3000/exerciseDetails/Close_Grip_Feet_Up_Bench_Press.webp",
+    "Details": {
+      "title": "Muscles Worked in Close-Grip Feet-Up Bench Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 6,
+    "id": 1,
+    "title": "How to Do Decline Bench Press: Muscles Worked & Proper Form",
+    "titleright": "How to Decline Bench Press",
+    "image": "http://localhost:3000/exerciseDetails/Decline_Bench_Press.webp",
+    "Details": {
+      "title": "Muscles Worked in Decline Bench Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 7,
+    "id": 1,
+    "title": "How to Do Dumbbell Chest Fly: Muscles Worked & Proper Form",
+    "titleright": "How to Do Dumbbell Chest Flyes",
+    "image": "http://localhost:3000/exerciseDetails/Dumbbell_Chest_Fly.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Chest Flyes",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 8,
+    "id": 1,
+    "title": "How to Do Dumbbell Chest Press: Muscles Worked & Proper Form",
+    "titleright": "How to Dumbbell Chest Press",
+    "image": "http://localhost:3000/exerciseDetails/Dumbbell_Chest_Press.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Chest Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 9,
+    "id": 1,
+    "title": "How to Do Dumbbell Decline Chest Press: Muscles Worked & Proper Form",
+    "titleright": "How to Dumbbell Decline Chest Press",
+    "image": "http://localhost:3000/exerciseDetails/dumbbell_decline_chest_press.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Decline Chest Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 10,
+    "id": 1,
+    "title": "How to Do Dumbbell Floor Press: Muscles Worked & Proper Form",
+    "titleright": "How to Dumbbell Floor Press",
+    "image": "http://localhost:3000/exerciseDetails/dumbbell_floor_press.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Floor Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 11,
+    "id": 1,
+    "title": "How to Do Band External Shoulder Rotation: Muscles Worked & Proper Form",
+    "titleright": "How to Do Band External Shoulder Rotations",
+    "image": "http://localhost:3000/exerciseDetails/Band_shoulder_external_rotation.webp",
+    "Details": {
+      "title": "Muscles Worked in Band External Shoulder Rotations",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 12,
+    "id": 1,
+    "title": "How to Do Band Internal Shoulder Rotation: Muscles Worked & Proper Form",
+    "titleright": "How to do Band Internal Shoulder Rotations",
+    "image": "http://localhost:3000/exerciseDetails/Band_shoulder_internal_rotation.webp",
+    "Details": {
+      "title": "Muscles Worked in Band Internal Shoulder Rotations",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 13,
+    "id": 1,
+    "title": "How to Do Band Pull-Apart: Muscles Worked & Proper Form",
+    "titleright": "How to Do Band Pull-Aparts",
+    "image": "http://localhost:3000/exerciseDetails/Band_Pull_Apart.webp",
+    "Details": {
+      "title": "Muscles Worked in Band Pull-Aparts",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Grab an elastic band, and hold it out before you on straight arms."
+      },
+      {
+        "id": "2",
+        "title": "Pull the band apart by moving your arms to the sides as far as you can, or until your arms are pointing straight out."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 14,
+    "id": 1,
+    "title": "How to Do Barbell Front Raise: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Front Raises",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_Front_Raise.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Front Raises",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Hold a barbell in straight arms, in front of your body."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 15,
+    "id": 1,
+    "title": "How to Do Barbell Rear Delt Row: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Rear Delt Row",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_Rear_Delt_Row.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Rear Delt Row",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 16,
+    "id": 1,
+    "title": "How to Do Barbell Upright Row: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Upright Row",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_upright_row.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Upright Row",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 17,
+    "id": 1,
+    "title": "How to Do Barbell Curl: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Curl",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_biceps_curl.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Curls",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 18,
+    "id": 1,
+    "title": "How to Do Barbell Preacher Curl: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Preacher Curls",
+    "image": "http://localhost:3000/exerciseDetails/preacher_curl_barbell.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Preacher Curls",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 19,
+    "id": 1,
+    "title": "How to Do Bodyweight Curl: Muscles Worked & Proper Form",
+    "titleright": "How to Do Bodyweight Curl",
+    "image": "http://localhost:3000/exerciseDetails/Bodyweight_curls.webp",
+    "Details": {
+      "title": "Muscles Worked in Bodyweight Curls",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 20,
+    "id": 1,
+    "title": "How to Do Cable Curl With Bar: Muscles Worked & Proper Form",
+    "titleright": "How to Cable Curls With Bar",
+    "image": "http://localhost:3000/exerciseDetails/cable_curl_with_handle.webp",
+    "Details": {
+      "title": "Muscles Worked in Cable Curls With Bar",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 21,
+    "id": 1,
+    "title": "How to Do Cable Curl With Rope: Muscles Worked & Proper Form",
+    "titleright": "How to Cable Curls With Rope",
+    "image": "http://localhost:3000/exerciseDetails/cable_curl_with_handle.webp",
+    "Details": {
+      "title": "Muscles Worked in Cable Curls With Rope",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 22,
+    "id": 1,
+    "title": "How to Do Concentration Curl: Muscles Worked & Proper Form",
+    "titleright": "How to Do Concentration Curls",
+    "image": "http://localhost:3000/exerciseDetails/Concentration_curl.webp",
+    "Details": {
+      "title": "Muscles Worked in Concentration Curls",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 23,
+    "id": 1,
+    "title": "How to Do Dumbbell Curl: Muscles Worked & Proper Form",
+    "titleright": "How to Dumbbell Curl",
+    "image": "http://localhost:3000/exerciseDetails/Hantelcurl.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Curls",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 24,
+    "id": 1,
+    "title": "How to Do Barbell Standing Triceps Extension: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Standing Triceps Extensions",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_Standing_Triceps.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Standing Triceps Extensions",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 25,
+    "id": 1,
+    "title": "How to Do Barbell Lying Triceps Extension: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Lying Triceps Extensions",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_Lying_Tricep_Extension.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Lying Triceps Extensions",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 26,
+    "id": 1,
+    "title": "How to Do Bench Dip: Muscles Worked & Proper Form",
+    "titleright": "How to Do Bench Dips",
+    "image": "http://localhost:3000/exerciseDetails/47AE_A88C_7054692BCEF0.webp",
+    "Details": {
+      "title": "Muscles Worked in Bench Dips",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 27,
+    "id": 1,
+    "title": "How to Do Close-Grip Push-Up: Muscles Worked & Proper Form",
+    "titleright": "How to Do Close-Grip Push-Ups",
+    "image": "http://localhost:3000/exerciseDetails/close_grip_push_up.webp",
+    "Details": {
+      "title": "Muscles Worked in Close-Grip Push-Ups",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 28,
+    "id": 1,
+    "title": "How to Do Dumbbell Lying Triceps Extension: Muscles Worked & Proper Form",
+    "titleright": "How to Do Dumbbell Lying Triceps Extensions",
+    "image": "http://localhost:3000/exerciseDetails/Lying_Dumbbell_Triceps_Extension_1.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Lying Triceps Extensions",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 29,
+    "id": 1,
+    "title": "How to Do Air Squat: Muscles Worked & Proper Form",
+    "titleright": "How to Do Air Squats",
+    "image": "http://localhost:3000/exerciseDetails/Air_squat.webp",
+    "Details": {
+      "title": "Muscles Worked in Air Squats",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 30,
+    "id": 1,
+    "title": "How to Do Belt Squats: Muscles Worked & Proper Form",
+    "titleright": "How to Do Belt Squats",
+    "image": "http://localhost:3000/exerciseDetails/belt_squat.webp",
+    "Details": {
+      "title": "Muscles Worked in Belt Squats",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 31,
+    "id": 1,
+    "title": "How to Do Chair Squat: Muscles Worked & Proper Form",
+    "titleright": "How to Do Chair Squats",
+    "image": "http://localhost:3000/exerciseDetails/chair_squats.webp",
+    "Details": {
+      "title": "Muscles Worked in Chair Squats",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 32,
+    "id": 1,
+    "title": "How to Goblet Squat: Muscles Worked & Proper Form",
+    "titleright": "How to Goblet Squat with Proper Form",
+    "image": "http://localhost:3000/exerciseDetails/Goblet_squat.webp",
+    "Details": {
+      "title": "Muscles Worked in Goblet Squats",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 33,
+    "id": 1,
+    "title": "How to Do Leg Press: Muscles Worked & Proper Form",
+    "titleright": "How to Leg Press",
+    "image": "http://localhost:3000/exerciseDetails/leg_press.webp",
+    "Details": {
+      "title": "Muscles Worked in Leg Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 34,
+    "id": 1,
+    "title": "How to Do Barbell Rows: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Rows With Proper Form",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_Row.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Rows",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 35,
+    "id": 1,
+    "title": "How to Do Block Snatch: Muscles Worked & Proper Form",
+    "titleright": "How to Block Snatch",
+    "image": "http://localhost:3000/exerciseDetails/block_snatch.webp",
+    "Details": {
+      "title": "Muscles Worked in Block Snatch",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 36,
+    "id": 1,
+    "title": "How to Do Chin-Up: Muscles Worked & Proper Form",
+    "titleright": "How to Do Chin-Ups",
+    "image": "http://localhost:3000/exerciseDetails/chin_up.webp",
+    "Details": {
+      "title": "Muscles Worked in Chin-Ups",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 37,
+    "id": 1,
+    "title": "How to Deadlift: Muscles Worked & Proper Form",
+    "titleright": "How to Deadlift with Proper Form",
+    "image": "http://localhost:3000/exerciseDetails/Deadlift.webp",
+    "Details": {
+      "title": "Muscles Worked in the Deadlift",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 38,
+    "id": 1,
+    "title": "How to Do Dumbbell Shrugs: Muscles Worked & Proper Form",
+    "titleright": "How to Do Dumbbell Shrugs",
+    "image": "http://localhost:3000/exerciseDetails/Dumbbell_Shrug.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Shrugs",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 39,
+    "id": 1,
+    "title": "How to Do Banded Side Kick: Muscles Worked & Proper Form",
+    "titleright": "How to Do Banded Side Kicks",
+    "image": "http://localhost:3000/exerciseDetails/Banded_Side_Kick.webp",
+    "Details": {
+      "title": "Muscles Worked in Banded Side Kicks",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 40,
+    "id": 1,
+    "title": "How to Do Clamshells: Muscles Worked & Proper Form",
+    "titleright": "How to Do Clamshells",
+    "image": "http://localhost:3000/exerciseDetails/Musslan.webp",
+    "Details": {
+      "title": "Muscles Worked in Clamshells",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 41,
+    "id": 1,
+    "title": "How to Do Dumbbell Frog Pumps: Muscles Worked & Proper Form",
+    "titleright": "How to Do Dumbbell Frog Pumps",
+    "image": "http://localhost:3000/exerciseDetails/Dumbbell_frog_pump.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Frog Pumps",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 42,
+    "id": 1,
+    "title": "How to Do Frog Pumps: Muscles Worked & Proper Form",
+    "titleright": "How to Do Frog Pumps",
+    "image": "http://localhost:3000/exerciseDetails/Frog_pump.webp",
+    "Details": {
+      "title": "Muscles Worked in Frog Pumps",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 43,
+    "id": 1,
+    "title": "How to Do Hip Thrust Machine: Muscles Worked & Proper Form",
+    "titleright": "How to Use the Hip Thrust Machine",
+    "image": "http://localhost:3000/exerciseDetails/hip_thrust_machine.webp",
+    "Details": {
+      "title": "Muscles Worked in Hip Thrust Machine",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 44,
+    "id": 1,
+    "title": "How to Do Cable Crunch: Muscles Worked & Proper Form",
+    "titleright": "How to Do Cable Crunches",
+    "image": "http://localhost:3000/exerciseDetails/cable_crunch.webp",
+    "Details": {
+      "title": "Muscles Worked in Cable Crunches",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 45,
+    "id": 1,
+    "title": "How to Do Dead Bugs: Muscles Worked & Proper Form",
+    "titleright": "How to Do Dead Bugs",
+    "image": "http://localhost:3000/exerciseDetails/deadbug.webp",
+    "Details": {
+      "title": "Muscles Worked in Dead Bugs",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 46,
+    "id": 1,
+    "title": "How to Do Hanging Knee Raise: Muscles Worked & Proper Form",
+    "titleright": "How to Do Hanging Knee Raises",
+    "image": "http://localhost:3000/exerciseDetails/hanging_knee_raise.webp",
+    "Details": {
+      "title": "Muscles Worked in Hanging Knee Raise",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 47,
+    "id": 1,
+    "title": "How to Do Kneeling Ab Wheel Roll-Out: Muscles Worked & Proper Form",
+    "titleright": "How to Do Kneeling Ab Wheel Roll-Outs",
+    "image": "http://localhost:3000/exerciseDetails/kneeling_ab_wheel.webp",
+    "Details": {
+      "title": "Muscles Worked in Kneeling Ab Wheel Roll-Outs",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 48,
+    "id": 1,
+    "title": "How to Do Kneeling Side Plank: Muscles Worked & Proper Form",
+    "titleright": "How to Do the Kneeling Side Plank",
+    "image": "http://localhost:3000/exerciseDetails/Kneeling_side_plank.webp",
+    "Details": {
+      "title": "Muscles Worked in the Kneeling Side Plank",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 49,
+    "id": 1,
+    "title": "How to Do Eccentric Heel Drop: Muscles Worked & Proper Form",
+    "titleright": "How to Do Eccentric Heel Drops",
+    "image": "http://localhost:3000/exerciseDetails/Eccentric_heel_raise.webp",
+    "Details": {
+      "title": "Muscles Worked in Eccentric Heel Drops",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 50,
+    "id": 1,
+    "title": "How to Do Heel Raise: Muscles Worked & Proper Form",
+    "titleright": "How to Do Heel Raises",
+    "image": "http://localhost:3000/exerciseDetails/Heel_raise.webp",
+    "Details": {
+      "title": "Muscles Worked in Heel Raises",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 51,
+    "id": 1,
+    "title": "How to Do Seated Calf Raise: Muscles Worked & Proper Form",
+    "titleright": "How to Do Seated Calf Raises",
+    "image": "http://localhost:3000/exerciseDetails/calf_raise_eated.webp",
+    "Details": {
+      "title": "Muscles Worked in Seated Calf Raises",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 52,
+    "id": 1,
+    "title": "How to Do Barbell Wrist Curl: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Wrist Curls",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_Wrist_Curl.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Wrist Curls",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 53,
+    "id": 1,
+    "title": "How to Do Bar Hang: Muscles Worked & Proper Form",
+    "titleright": "How to Do Bar Hangs",
+    "image": "http://localhost:3000/exerciseDetails/Two_handed_hang_for_time.webp",
+    "Details": {
+      "title": "Muscles Worked in the Bar Hang",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 54,
+    "id": 1,
+    "title": "How to Do Farmers Walk: Muscles Worked & Proper Form",
+    "titleright": "How to Do Farmers Walk",
+    "image": "http://localhost:3000/exerciseDetails/Farmers_walk.webp",
+    "Details": {
+      "title": "Muscles Worked in Farmers Walk",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 55,
+    "id": 1,
+    "title": "How to Do Barbell Wrist Extension: Muscles Worked & Proper Form",
+    "titleright": "How to Do Barbell Wrist Extensions",
+    "image": "http://localhost:3000/exerciseDetails/Barbell_Wrist_Extension.webp",
+    "Details": {
+      "title": "Muscles Worked in Barbell Wrist Extensions",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Grab a barbell with an overhand grip and rest your forearms against your thighs, or alternatively against a bench."
+      },
+      {
+        "id": "2",
+        "title": "Lower your hands towards the floor."
+      },
+      {
+        "id": "3",
+        "title": "Reverse the motion by bending your wrists upwards."
+      }
+    ]
+  },
+  {
+    "userId": 56,
+    "id": 1,
+    "title": "How to Do Dumbbell Wrist Extension: Muscles Worked & Proper Form",
+    "titleright": "How to Do Dumbbell Wrist Extensions",
+    "image": "http://localhost:3000/exerciseDetails/Dumbbell_Wrist_Extension.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Wrist Extensions",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Grab a barbell with an overhand grip and rest your forearms against your thighs, or alternatively against a bench."
+      },
+      {
+        "id": "2",
+        "title": "Lower your hands towards the floor."
+      },
+      {
+        "id": "3",
+        "title": "Reverse the motion by bending your wrists upwards."
+      }
+    ]
+  },
+  {
+    "userId": 57,
+    "id": 1,
+    "title": "The Squat",
+    "titleright": "How to The Squat Press",
+    "image": "http://localhost:3000/exerciseDetails/squat.webp",
+    "Details": {
+      "title": "Muscles Worked in Dumbbell Floor Press",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Lie on the bench, pull your shoulder blades together and down, and slightly arch your back."
+      },
+      {
+        "id": "2",
+        "title": "Grip the bar slightly wider than shoulder-width apart."
+      },
+      {
+        "id": "3",
+        "title": "Inhale, hold your breath, and unrack the bar."
+      }
+    ]
+  },
+  {
+    "userId": 58,
+    "id": 1,
+    "title": "Muscles Worked in a Stationary Bike Workout",
+    "titleright": "Benefits of Stationary Bike Workouts",
+    "image": "http://localhost:3000/exerciseDetails/Stationary_bike_workout_muscles.webp",
+    "Details": {
+      "title": "The main muscles worked in a stationary bike ",
+      "image": "http://localhost:3000/exerciseDetails/bar_dips_2.webp"
+    },
+    "Detailslist": [
+      {
+        "id": "1",
+        "title": "Improving cardiovascular health and strengthening the heart and lungs"
+      },
+      {
+        "id": "2",
+        "title": "Improving markers of health, such as reducing blood pressure and cholesterol and improving blood sugar regulation"
+      },
+      {
+        "id": "3",
+        "title": "Burning calories and boosting metabolic rate to help support weight loss"
+      }
+    ]
+  }
+]

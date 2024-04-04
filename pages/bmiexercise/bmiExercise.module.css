@@ -1,0 +1,24 @@
+.title{
+    color: aqua;
+}
+.exerixenameTitle{
+    margin: 17px 0px 3px 0px;
+}
+.filterSection{
+    background-color: aquamarine;
+    padding: 11px;
+    margin: 23px;
+}
+.exercss{
+    color: tan;
+    font-size: 26px;
+    font-family: monospace;
+}
+.equipcss{
+    color: tan;
+    font-size: 26px;
+    font-family: monospace;
+}
+.exeimage{
+    border-radius: 11px;
+}

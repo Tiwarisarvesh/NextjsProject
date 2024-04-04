@@ -1,0 +1,37 @@
+.title {
+    color: red;
+    padding: 10px;
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+    padding-bottom: 53px;
+}
+
+.container {
+    padding: 50px 100px 50px 100px;
+}
+
+.colsm {
+    padding: 50px;
+}
+
+.notlogin{
+    color: red;
+    text-align: center;
+    margin-left: 438px;
+    padding: 100px;
+    display: inline-block;
+    background-color: beige;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  
+    .container {
+        padding: 50px 15px 50px 15px;
+    }
+
+ 
+}
